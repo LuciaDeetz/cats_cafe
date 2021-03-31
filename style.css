@@ -56,7 +56,7 @@ table {
 
 body {
     font-family: Verdana, Helvetica, sans-serif;
-    background-image:linear-gradient(rgba(241,241,241,.5), rgba(241,241,241,.9)), url("images/ludemeula-fernandes.jpg");
+    background-image:linear-gradient(rgba(241,241,241,.5), rgba(241,241,241,.9)), url("https://raw.githubusercontent.com/LuciaDeetz/cats_cafe/main/images/ludemeula-fernandes.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
